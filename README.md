@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://i.postimg.cc/fTtbwhjf/Chat-GPT-Image-16-de-nov-de-2025-20-17-50.png" width="850" alt="Mockup do Portfólio">
+  <a href="https://nataliapastre-dev.github.io/nataliapastre-portfolio/" target="_blank">
+    <img src="https://i.postimg.cc/WbWfwQQC/Chat-GPT-Image-16-de-nov-de-2025-20-26-56.png" width="850" alt="Mockup do Portfólio">
+  </a>
 </p>
 
 ---
 
 # 👋 Olá! Eu sou a **Natália Baptista Pastre**
 
-Criei este portfólio para compartilhar um pouco da minha jornada no Front-End — meus estudos, minha evolução e os projetos que deram vida ao meu aprendizado.
+Criei este portfólio para compartilhar um pouco da minha jornada no Front-End — meus estudos, minha evolução e os projetos que deram vida ao meu aprendizado.  
 Sou apaixonada por transformar conceitos em interfaces bonitas, funcionais e acessíveis, sempre buscando entregar uma experiência marcante para quem usa. 💜
 
 ---
 
 ## 🚀 Portfólio
-🔗 **Acesse aqui:**  
+🔗 **Clique para acessar:**  
 https://nataliapastre-dev.github.io/nataliapastre-portfolio/
 
 ---
