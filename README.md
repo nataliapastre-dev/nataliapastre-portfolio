@@ -6,8 +6,8 @@
 
 # 👋 Olá! Eu sou a **Natália Baptista Pastre**
 
-Criei esse portfólio sobre mim e sobre meus projetos. 💜  
-Desenvolvedora **Front-End** em formação, apaixonada por criar interfaces modernas, intuitivas e responsivas.
+Criei este portfólio para compartilhar um pouco da minha jornada no Front-End — meus estudos, minha evolução e os projetos que deram vida ao meu aprendizado.
+Sou apaixonada por transformar conceitos em interfaces bonitas, funcionais e acessíveis, sempre buscando entregar uma experiência marcante para quem usa. 💜
 
 ---
 
